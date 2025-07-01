@@ -74,7 +74,7 @@ This project provides a full-stack analytics solution to address these issues us
 
 ## 📄 Reports
 
-- 📘 [Download Business Report (PDF)](reports/Vendor_Performance_Report.pdf)
+- 📘 [Download Business Report (PDF)](reports/Vendor Performance Report.pdf)
 - 📈 Power BI Dashboard: `vendor_performance.pbix`
 
 ---
